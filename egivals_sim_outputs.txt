@@ -1,0 +1,8 @@
+Source: Test Flight 2, 10.03.2026
+
+           Motion            Eigvalue      P [s]  T_half [s]     tau [s]
+0         Phugoid -0.006547+0.118002j  53.246517  105.874852           -
+1    Short Period -1.227819+2.374141j   2.646509    0.564535           -
+2      Dutch Roll -0.269569+2.152251j   2.919355    2.571321           -
+3  Aperiodic Roll -4.212283+0.000000j          -           -    0.237401
+4          Spiral  0.009475+0.000000j          -           - -105.545789

@@ -1,0 +1,5 @@
+Dadc1_tas
+vane_AOA
+Ahrs1_Pitch
+Ahrs1_bPitchRate
+delta_e

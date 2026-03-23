@@ -1,0 +1,10 @@
+vane_AOA
+Ahrs1_Pitch
+Dadc1_bcAlt
+Dadc1_tas
+Dadc1_sat
+Dadc1_tat
+Dadc1_cas
+lh_engine_FU
+rh_engine_FU
+time

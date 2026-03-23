@@ -1,0 +1,24 @@
+Workflow sample:
+
+
+reference data read and store
+
+run integrator/state space once
+
+compute eigenv or any metrics + compare (diff)
+
+run code once for every parameter (increment by percentage) -> compute metrics again
+
+rank effect
+
+update
+
+do again until tolerance
+
+
+final coefficients kept in system objects
+
+print messag at every step: "C_whatever observed to have the most effect: updated"
+
+
+Save this as a .txt file and put it on github
